@@ -1,7 +1,7 @@
-{COLOR}mMMMMMMMMMMMMMM{RESET}                              bb                                  hh
-{COLOR}mM  .m.  .m.  M{RESET}                              bb                                  hh
-{COLOR}mM  MMM  MMM  M{RESET} uu    uu ww      ww uu    uu bbbbbbb. .eeeeee. nnnnnnn. .cccccc. hhhhhhh.
-{COLOR}mM  MMM  MMM  M{RESET} uu    uu ww      ww uu    uu bb'  `bb eeeeeeee nn'  `nn cc'  `"" hh'  `hh
-{COLOR}mM  MMM  MMM  M{RESET} uu    uu `ww ww ww' uu    uu bb.  .bb ee.  ... nn    nn cc.  ... hh    hh
-{COLOR}mM  MMM  MMM  M{RESET} `uuuuu u  `ww`'ww'  `uuuuu u bbbbbbb' `eeeeee' nn    nn `cccccc' hh    hh
-{COLOR}mMMMMMMMMMMMMMM{RESET}
+{COLOR}mmmmmmmmmmmmmmm{RESET} UU    UU            UU    UU bb                                  hh
+{COLOR}mm''mmmmmmmmmmm{RESET} UU    UU            UU    UU bb                                  hh
+{COLOR}mm  .m.  .m.  m{RESET} UU    UU ww      ww UU    UU bbbbbbb. .eeeeee. nnnnnnn. .cccccc. hhhhhhh.
+{COLOR}mm  mmm  mmm  m{RESET} UU    UU ww      ww UU    UU bb'  `bb eeeeeeee nn'  `nn cc'  `"" hh'  `hh
+{COLOR}mm  mmm  mmm  m{RESET} UU    UU `ww ww ww' UU    UU bb.  .bb ee.  ... nn    nn cc.  ... hh    hh
+{COLOR}mmmmmmmmmmmmmmm{RESET} `UUUUUU'  `ww`'ww'  `UUUUUU' bbbbbbb' `eeeeee' nn    nn `cccccc' hh    hh
+{COLOR}mmmmmmmmmmmmmmm{RESET}
